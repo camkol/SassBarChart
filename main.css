@@ -143,4 +143,10 @@ rect:after {
   position: absolute;
   top: -15px;
   left: 0px;
+}
+
+@media only screen and (max-width: 480px) {
+  rect {
+    padding-left: 16px;
+  }
 }/*# sourceMappingURL=main.css.map */
