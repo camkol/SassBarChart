@@ -8,4 +8,4 @@
 
 ## Notes
 
--Attempted resizing bars, but at first wouldnt make sense to have so many on mobile in reallife.
+- Attempted resizing bars, but at first wouldnt make sense to have so many on mobile in reallife.
